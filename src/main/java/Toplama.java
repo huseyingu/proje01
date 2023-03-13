@@ -10,6 +10,7 @@ public class Toplama {
         // V3 huseyin calismalri
         //v4 huseinnin calsimasi
         //v5 yenisi
+        // github
         System.out.println("toplam ="+toplam);
     }
 }
