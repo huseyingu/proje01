@@ -8,6 +8,7 @@ public class Toplama {
             toplam+=w;
         }
         // V3 huseyin calismalri
+        //v4 huseinnin calsimasi
         System.out.println("toplam ="+toplam);
     }
 }
