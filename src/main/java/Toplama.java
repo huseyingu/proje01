@@ -7,7 +7,7 @@ public class Toplama {
         for (int w:a){
             toplam+=w;
         }
-
+        // V3 huseyin calismalri
         System.out.println("toplam ="+toplam);
     }
 }
